@@ -1,6 +1,5 @@
+### Live version [here](https://profilecardfrontend.netlify.app/).
 # Frontend Mentor - Profile card component
-
-<a href="https://profilecardfrontend.netlify.app/">Live</a>
 
 ## Welcome! 👋
 
@@ -78,9 +77,10 @@ We provide templates to help you share your solution once you've submitted it on
 
 The more specific you are with your questions the more likely it is that another member of the community will give you feedback.
 
-## Got feedback for us?
 
-We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please email hi[at]frontendmentor[dot]io.
+## Giving feedback
+
+Feedback is always welcome, so if you have any to give on this challenge please email hi[at]frontendmentor[dot]io.
 
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
