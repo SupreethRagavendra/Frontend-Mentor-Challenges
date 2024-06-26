@@ -1,6 +1,6 @@
 # Frontend Mentor - Profile card component
 
-https://profilecardfrontend.netlify.app/
+<a href="https://profilecardfrontend.netlify.app/">Live</a>
 
 ## Welcome! 👋
 
